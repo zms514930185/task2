@@ -1,0 +1,2 @@
+[2019-05-27 15:58:08] INFO  org.springframework.web.context.ContextLoader 270 initWebApplicationContext - Root WebApplicationContext: initialization started
+[2019-05-27 15:58:09] INFO  org.springframework.web.context.ContextLoader 306 initWebApplicationContext - Root WebApplicationContext initialized in 1354 ms
