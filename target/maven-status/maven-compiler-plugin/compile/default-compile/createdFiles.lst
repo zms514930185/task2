@@ -1,6 +1,0 @@
-com\jnshu\service\StudentServiceImpl.class
-com\jnshu\service\StudentService.class
-com\jnshu\controller\MainController.class
-com\jnshu\model\Student.class
-com\jnshu\controller\StudentController.class
-com\jnshu\mapper\StudentMapper.class
