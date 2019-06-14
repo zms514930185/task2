@@ -3,7 +3,6 @@ package com.jnshu.service;
 import com.jnshu.model.Student;
 
 import java.util.List;
-import java.util.Map;
 
 public interface StudentService {
     long deleteByPrimaryKey(Long id);
@@ -16,7 +15,7 @@ public interface StudentService {
 
     long updateStudent(Student student);
 
-    long selectCountId();
+    long selectCount(Student student);
 
-    List<Student> selectStudent(Student student,int page,int size);
+    List<Student> selectStudent(Student student,long page,long size);
 }

@@ -2,86 +2,69 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="studentweb:war exploded" />
+      <artifact name="studentweb:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f654cd13-cd05-4cf1-8182-4288e3004659" name="Default Changelist" comment="web工程">
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-05-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-06-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-07-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-08-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-09-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-10-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-11-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-12-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/debug-2019-06-13-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/error-2019-06-06-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-05-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-06-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-07-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-08-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-09-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-10-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-11-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-12-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/info-2019-06-13-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-06-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-08-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-09-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-10-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-11-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-06/warn-2019-06-12-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/druid-sql.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/warn.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentWebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/message_zh_CN.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/debug-2019-05-11-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/debug-2019-05-23-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/debug-2019-05-24-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/debug-2019-05-25-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/error-2019-05-11-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/info-2019-05-11-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/info-2019-05-23-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/info-2019-05-24-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/2019-05/info-2019-05-25-1.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/druid-sql.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/info.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/warn.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pagess/deleteStudent.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pagess/insertStudent.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pagess/selectStudent.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pagess/updateStudent.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/StudentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/controller/MainController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/controller/StudentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/mapper/StudentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/model/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/service/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/com/jnshu/service/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/druid-1.1.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/json-20180813.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/json-taglib-0.4.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/jstl-impl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/log4j-api-2.8.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/log4j-core-2.8.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/mybatis-3.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/mybatis-spring-2.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/mysql-connector-java-5.1.46.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-aop-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-beans-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-context-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-context-support-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-core-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-expression-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-jcl-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-jdbc-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-tx-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-web-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/lib/spring-webmvc-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/mvc-dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/pages/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/pages/json-taglib.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/pages/student.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/studentweb/pagess/deleteStudent.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jnshu/service/StudentServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jnshu/service/StudentServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/studentweb/pagess/deleteStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/json.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/studentweb/pagess/insertStudent.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/studentweb/pagess/selectStudent.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/studentweb/pagess/updateStudent.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jnshu/service/StudentServiceImplTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,32 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/student.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#p#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jnshu/service/StudentServiceImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -146,9 +108,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Tag Library Descriptor" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
         <option value="Jsp File" />
-        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -161,12 +123,18 @@
       <find>s</find>
       <find>taglib</find>
       <find>5.1.47</find>
+      <find>3.1.0</find>
+      <find>servlet-api</find>
+      <find>4.0.1</find>
+      <find>2.5</find>
+      <find>servlet-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/student.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -174,32 +142,43 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/student.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/selectStudentId.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/insertStudent.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/deleteStudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/updateStudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/selectStudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/json-taglib.json" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/StudentMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/pages/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pagess/insertStudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pagess/deleteStudent.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/pages/student.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/delete.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/update.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jnshu/service/StudentServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/StudentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/select.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/json.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/insert.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/Message.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/validation_error_zh_CN.properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/message.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/message_zh_CN.properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentWebController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/student.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/error.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/index.jsp" />
       </list>
     </option>
   </component>
@@ -236,15 +215,20 @@
           <item name="studentweb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="studentweb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="204" />
-    <option name="width" value="1198" />
-    <option name="height" value="594" />
+    <option name="x" value="66" />
+    <option name="y" value="79" />
+    <option name="width" value="1516" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,19 +236,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="studentweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studentweb" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
@@ -354,6 +331,23 @@
               <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="studentweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -371,14 +365,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="studentweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,15 +380,15 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558167395244" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/pages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4402985" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -417,6 +409,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\task2\sign_up\student\studentweb\src\main\webapp\pages" />
       <recent name="D:\task2\sign_up\student\studentweb\src\main\webapp\WEB-INF" />
       <recent name="D:\task2\sign_up\student\studentweb\src\main\resources" />
       <recent name="D:\task2\sign_up\student\studentweb\src\main\java\com\jnshu\service" />
@@ -435,7 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.studentWeb">
+  <component name="RunManager" selected="Maven.studentweb [jetty:run]">
     <configuration name="StudentServiceImplTest.insertStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="studentweb" />
       <extension name="coverage">
@@ -447,6 +440,22 @@
       <option name="PACKAGE_NAME" value="com.jnshu.service" />
       <option name="MAIN_CLASS_NAME" value="com.jnshu.service.StudentServiceImplTest" />
       <option name="METHOD_NAME" value="insertStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceImplTest.selectStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studentweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jnshu.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jnshu.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jnshu.service.StudentServiceImplTest" />
+      <option name="METHOD_NAME" value="selectStudent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -579,6 +588,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="select.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/pages/select.jsp" />
+      <deployment>
+        <artifact name="studentweb:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/studentweb_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_studentweb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2087" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="studentweb:war" />
+        </option>
+      </method>
+    </configuration>
     <configuration name="studentWeb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Java\jdk1.8.0_144\jre">
       <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
@@ -653,12 +734,16 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.StudentServiceImplTest.insertStudent" />
+      <item itemvalue="JUnit.StudentServiceImplTest.selectStudent" />
       <item itemvalue="Maven.studentweb [jetty:run]" />
       <item itemvalue="Tomcat Server.studentWeb" />
+      <item itemvalue="Tomcat Server.select.jsp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StudentServiceImplTest.selectStudent" />
         <item itemvalue="JUnit.StudentServiceImplTest.insertStudent" />
+        <item itemvalue="Tomcat Server.select.jsp" />
       </list>
     </recent_temporary>
   </component>
@@ -718,6 +803,21 @@
       <workItem from="1559227689871" duration="366000" />
       <workItem from="1559469017997" duration="25000" />
       <workItem from="1559646999270" duration="5026000" />
+      <workItem from="1559705788168" duration="4286000" />
+      <workItem from="1559786061602" duration="12851000" />
+      <workItem from="1559876914706" duration="48534000" />
+      <workItem from="1560130902428" duration="22733000" />
+      <workItem from="1560180209343" duration="1551000" />
+      <workItem from="1560215221812" duration="4265000" />
+      <workItem from="1560222493336" duration="8152000" />
+      <workItem from="1560261168561" duration="2852000" />
+      <workItem from="1560302156277" duration="9340000" />
+      <workItem from="1560344335472" duration="7221000" />
+      <workItem from="1560388205970" duration="28602000" />
+      <workItem from="1560441191952" duration="1910000" />
+      <workItem from="1560474362354" duration="1362000" />
+      <workItem from="1560477604774" duration="126000" />
+      <workItem from="1560478929114" duration="11101000" />
     </task>
     <task id="LOCAL-00001" summary="web工程">
       <created>1559648781338</created>
@@ -726,31 +826,50 @@
       <option name="project" value="LOCAL" />
       <updated>1559648781338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="web工程">
+      <created>1559705877122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559705877122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 10h 09m 51s.xml">
+    <history-entry file="StudentServiceImplTest_insertStudent - 2019.06.10 at 16h 31m 51s.xml">
       <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 10h 11m 32s.xml">
-      <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 33m 08s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 10h 23m 13s.xml">
-      <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 33m 28s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 10h 26m 27s.xml">
-      <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 33m 39s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 10h 26m 42s.xml">
-      <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 33m 57s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceImplTest_insertStudent - 2019.05.25 at 14h 40m 35s.xml">
-      <configuration name="StudentServiceImplTest.insertStudent" configurationId="JUnit" />
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 34m 24s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 35m 32s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 36m 15s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 39m 20s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentServiceImplTest_selectStudent - 2019.06.10 at 17h 39m 25s.xml">
+      <configuration name="StudentServiceImplTest.selectStudent" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338254000" />
+    <option name="totallyTimeSpent" value="503140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -762,9 +881,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="204" width="1198" height="594" extended-state="0" />
+    <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25483304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20682731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -773,11 +892,48 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49933067" weight="0.47826087" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5588235" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.5588235" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49933067" visible="true" weight="0.10869565" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933067" weight="0.32950193" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32950193" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32992327" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50066936" side_tool="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49933067" weight="0.20971867" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32950193" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32822478" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966533" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.23694779" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CDI" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3299866" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1961178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.5588235" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49933067" visible="true" weight="0.2723785" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933067" weight="0.32950193" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32950193" />
       <window_info anchor="bottom" id="Terminal" order="8" />
@@ -791,49 +947,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966533" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.145917" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.23761714" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="CDI" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.3299866" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1746988" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49933067" weight="0.8965517" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.550447" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933067" weight="0.32950193" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32950193" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50066936" side_tool="true" weight="0.32950193" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49933067" weight="0.30395913" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32950193" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32822478" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966533" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.10709505" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="CDI" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3299866" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -848,75 +969,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2268">
-          <caret line="328" column="6" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studentweb.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11760">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/jar/JarFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="266" column="49" selection-start-line="266" selection-start-column="49" selection-end-line="266" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/mavenm2/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/ui/ConcurrentModel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/mavenm2/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/ui/Model.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controllerr.java" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -928,24 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1012,367 +1046,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.jnshu.student:studentweb:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.jnshu.student:studentweb:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="565.448717948718">com.jnshu.student:studentweb:1.0-SNAPSHOT</node>
-            <node x="278.0" y="530.0">mysql:mysql-connector-java:jar:5.1.47</node>
-            <node x="302.0" y="285.0">org.springframework:spring-beans:jar:5.1.6.RELEASE</node>
-            <node x="298.5" y="122.0">org.springframework:spring-context:jar:5.1.6.RELEASE</node>
-            <node x="462.0" y="120.98589743589713">org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE</node>
-            <node x="306.5" y="224.0">org.springframework:spring-core:jar:5.1.6.RELEASE</node>
-            <node x="487.5" y="229.25">org.springframework:spring-core:jar:5.1.6.RELEASE/org.springframework:spring-jcl:jar:5.1.6.RELEASE</node>
-            <node x="296.0" y="0.0">org.springframework:spring-webmvc:jar:5.1.6.RELEASE</node>
-            <node x="307.0" y="448.0">org.springframework:spring-jdbc:jar:5.1.6.RELEASE</node>
-            <node x="307.5" y="163.0">org.springframework:spring-web:jar:5.1.6.RELEASE</node>
-            <node x="308.0" y="61.0">org.springframework:spring-aop:jar:5.1.6.RELEASE</node>
-            <node x="309.0" y="489.0">org.springframework:spring-test:jar:5.1.6.RELEASE</node>
-            <node x="314.5" y="387.0">org.springframework:spring-tx:jar:5.1.6.RELEASE</node>
-            <node x="273.0" y="346.0">org.springframework:spring-context-support:jar:5.1.6.RELEASE</node>
-            <node x="318.0" y="571.0">org.mybatis:mybatis:jar:3.4.6</node>
-            <node x="297.0" y="612.0">org.mybatis:mybatis-spring:jar:2.0.1</node>
-            <node x="325.0" y="776.0">com.alibaba:druid:jar:1.1.16</node>
-            <node x="310.5" y="1076.948717948718">org.apache.logging.log4j:log4j-core:jar:2.8.2</node>
-            <node x="314.5" y="1015.948717948718">org.apache.logging.log4j:log4j-api:jar:2.8.2</node>
-            <node x="296.0" y="817.0">org.junit.jupiter:junit-jupiter-api:jar:5.4.0</node>
-            <node x="468.0" y="831.948717948718">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.apiguardian:apiguardian-api:jar:1.0.0</node>
-            <node x="484.0" y="872.948717948718">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.opentest4j:opentest4j:jar:1.1.1</node>
-            <node x="444.0" y="739.0">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.junit.platform:junit-platform-commons:jar:1.4.0</node>
-            <node x="284.0" y="735.0">javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.3</node>
-            <node x="321.0" y="913.948717948718">javax.servlet.jsp.jstl:jstl-api:jar:1.2</node>
-            <node x="484.0" y="913.948717948718">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5</node>
-            <node x="494.5" y="974.948717948718">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1</node>
-            <node x="317.5" y="974.948717948718">org.glassfish.web:jstl-impl:jar:1.2</node>
-            <node x="294.0" y="694.0">javax.servlet:javax.servlet-api:jar:4.0.1</node>
-            <node x="328.5" y="653.0">org.json:json:jar:20180813</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-core:jar:2.8.2">
-              <point x="41.5" y="10.022727272727252" />
-              <point x="103.0" y="1087.448717948718" />
-              <point x="-38.0" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-1.4318181818181301" />
-              <point x="103.0" y="504.75" />
-              <point x="-39.5" y="5.25" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-52.5" y="-0.0" />
-              <point x="213.0" y="10.5" />
-              <point x="213.0" y="230.5625" />
-              <point x="-42.0" y="-3.9375" />
-            </edge>
-            <edge source="org.apache.logging.log4j:log4j-core:jar:2.8.2" target="org.apache.logging.log4j:log4j-api:jar:2.8.2">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-60.5" y="7.0" />
-              <point x="444.0" y="138.48589743589713" />
-              <point x="424.0" y="229.25" />
-              <point x="42.0" y="-5.25" />
-            </edge>
-            <edge source="javax.servlet.jsp.jstl:jstl-api:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1">
-              <point x="27.5" y="5.25" />
-              <point x="424.0" y="929.698717948718" />
-              <point x="444.0" y="980.198717948718" />
-              <point x="-28.0" y="-5.25" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-context:jar:5.1.6.RELEASE">
-              <point x="-75.5" y="-0.0" />
-              <point x="153.0" y="356.5" />
-              <point x="153.0" y="132.5" />
-              <point x="-50.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE">
-              <point x="50.0" y="-0.0" />
-              <point x="-60.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-aop:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-40.5" y="7.0" />
-              <point x="223.0" y="78.5" />
-              <point x="223.0" y="227.9375" />
-              <point x="-42.0" y="-6.5625" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2">
-              <point x="41.5" y="7.159090909090878" />
-              <point x="103.0" y="924.448717948718" />
-              <point x="-27.5" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="javax.servlet:javax.servlet-api:jar:4.0.1">
-              <point x="41.5" y="3.340909090909122" />
-              <point x="103.0" y="704.5" />
-              <point x="-54.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-aop:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-40.5" y="-0.0" />
-              <point x="183.0" y="71.5" />
-              <point x="183.0" y="292.5" />
-              <point x="-46.5" y="-3.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-41.0" y="7.0" />
-              <point x="203.0" y="180.5" />
-              <point x="203.0" y="286.5" />
-              <point x="-46.5" y="-9.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context:jar:5.1.6.RELEASE">
-              <point x="-52.5" y="8.399999999999999" />
-              <point x="253.0" y="18.899999999999977" />
-              <point x="253.0" y="124.10000000000002" />
-              <point x="-50.0" y="-8.400000000000006" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-75.5" y="-7.0" />
-              <point x="163.0" y="349.5" />
-              <point x="163.0" y="243.6875" />
-              <point x="-42.0" y="9.1875" />
-            </edge>
-            <edge source="org.junit.jupiter:junit-jupiter-api:jar:5.4.0" target="org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.apiguardian:apiguardian-api:jar:1.0.0">
-              <point x="52.5" y="-0.0" />
-              <point x="424.0" y="827.5" />
-              <point x="444.0" y="842.448717948718" />
-              <point x="-54.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-aop:jar:5.1.6.RELEASE">
-              <point x="0.0" y="10.5" />
-              <point x="0.0" y="-10.5" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-41.5" y="-7.0" />
-              <point x="123.0" y="451.5" />
-              <point x="123.0" y="301.5" />
-              <point x="-46.5" y="6.0" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5">
-              <point x="31.0" y="-5.25" />
-              <point x="424.0" y="980.198717948718" />
-              <point x="444.0" y="929.698717948718" />
-              <point x="-38.5" y="5.25" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.springframework:spring-tx:jar:5.1.6.RELEASE">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE">
-              <point x="52.5" y="-0.0" />
-              <point x="424.0" y="10.5" />
-              <point x="444.0" y="124.48589743589713" />
-              <point x="-60.5" y="-7.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-52.5" y="-4.199999999999999" />
-              <point x="173.0" y="6.2999999999999545" />
-              <point x="173.0" y="295.5" />
-              <point x="-46.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-34.0" y="-0.0" />
-              <point x="133.0" y="397.5" />
-              <point x="133.0" y="241.0625" />
-              <point x="-42.0" y="6.5625" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.json:json:jar:20180813">
-              <point x="41.5" y="2.386363636363626" />
-              <point x="103.0" y="663.5" />
-              <point x="-20.0" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-6.204545454545496" />
-              <point x="103.0" y="233.1875" />
-              <point x="-42.0" y="-1.3125" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-4.295454545454504" />
-              <point x="103.0" y="363.5" />
-              <point x="-75.5" y="7.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-2.386363636363626" />
-              <point x="103.0" y="465.5" />
-              <point x="-41.5" y="7.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-api:jar:2.8.2">
-              <point x="41.5" y="9.06818181818187" />
-              <point x="103.0" y="1026.448717948718" />
-              <point x="-34.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1">
-              <point x="31.0" y="5.25" />
-              <point x="-28.0" y="5.25" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-7.159090909090878" />
-              <point x="103.0" y="173.5" />
-              <point x="-41.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-50.0" y="4.199999999999989" />
-              <point x="193.0" y="136.7" />
-              <point x="193.0" y="289.5" />
-              <point x="-46.5" y="-6.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.47">
-              <point x="41.5" y="-0.47727272727274794" />
-              <point x="103.0" y="540.5" />
-              <point x="-70.5" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.3">
-              <point x="41.5" y="4.295454545454504" />
-              <point x="103.0" y="745.5" />
-              <point x="-64.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-41.5" y="-0.0" />
-              <point x="113.0" y="458.5" />
-              <point x="113.0" y="238.4375" />
-              <point x="-42.0" y="3.9375" />
-            </edge>
-            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-50.0" y="8.400000000000006" />
-              <point x="233.0" y="140.89999999999998" />
-              <point x="233.0" y="225.3125" />
-              <point x="-42.0" y="-9.1875" />
-            </edge>
-            <edge source="org.springframework:spring-beans:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.junit.jupiter:junit-jupiter-api:jar:5.4.0">
-              <point x="41.5" y="6.204545454545496" />
-              <point x="103.0" y="827.5" />
-              <point x="-52.5" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.4.6">
-              <point x="41.5" y="0.47727272727274794" />
-              <point x="103.0" y="581.5" />
-              <point x="-30.5" y="-0.0" />
-            </edge>
-            <edge source="org.junit.jupiter:junit-jupiter-api:jar:5.4.0" target="org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.opentest4j:opentest4j:jar:1.1.1">
-              <point x="52.5" y="7.0" />
-              <point x="424.0" y="834.5" />
-              <point x="444.0" y="883.448717948718" />
-              <point x="-38.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-aop:jar:5.1.6.RELEASE">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.junit.platform:junit-platform-commons:jar:1.4.0" target="org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.apiguardian:apiguardian-api:jar:1.0.0">
-              <point x="0.0" y="10.5" />
-              <point x="0.0" y="-10.5" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.glassfish.web:jstl-impl:jar:1.2">
-              <point x="41.5" y="8.113636363636374" />
-              <point x="103.0" y="985.448717948718" />
-              <point x="-31.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-test:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="-39.5" y="-5.25" />
-              <point x="103.0" y="494.25" />
-              <point x="103.0" y="235.8125" />
-              <point x="-42.0" y="1.3125" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-10.022727272727252" />
-              <point x="103.0" y="2.1000000000000227" />
-              <point x="-52.5" y="-8.399999999999999" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:2.0.1">
-              <point x="41.5" y="1.4318181818181301" />
-              <point x="103.0" y="622.5" />
-              <point x="-51.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE">
-              <point x="0.0" y="10.5" />
-              <point x="0.0" y="-10.5" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:5.1.6.RELEASE" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="-34.0" y="-7.0" />
-              <point x="143.0" y="390.5" />
-              <point x="143.0" y="304.5" />
-              <point x="-46.5" y="9.0" />
-            </edge>
-            <edge source="javax.servlet.jsp.jstl:jstl-api:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5">
-              <point x="27.5" y="-5.25" />
-              <point x="-38.5" y="-5.25" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-9.06818181818187" />
-              <point x="103.0" y="64.5" />
-              <point x="-40.5" y="-7.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="com.alibaba:druid:jar:1.1.16">
-              <point x="41.5" y="5.25" />
-              <point x="103.0" y="786.5" />
-              <point x="-23.5" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-8.113636363636374" />
-              <point x="103.0" y="128.3" />
-              <point x="-50.0" y="-4.199999999999989" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-3.340909090909122" />
-              <point x="103.0" y="404.5" />
-              <point x="-34.0" y="7.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-web:jar:5.1.6.RELEASE">
-              <point x="-52.5" y="4.199999999999999" />
-              <point x="243.0" y="14.700000000000045" />
-              <point x="243.0" y="166.5" />
-              <point x="-41.0" y="-7.0" />
-            </edge>
-            <edge source="org.springframework:spring-core:jar:5.1.6.RELEASE" target="org.springframework:spring-core:jar:5.1.6.RELEASE/org.springframework:spring-jcl:jar:5.1.6.RELEASE">
-              <point x="42.0" y="5.25" />
-              <point x="-35.0" y="-0.0" />
-            </edge>
-            <edge source="org.junit.jupiter:junit-jupiter-api:jar:5.4.0" target="org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.junit.platform:junit-platform-commons:jar:1.4.0">
-              <point x="52.5" y="-7.0" />
-              <point x="424.0" y="820.5" />
-              <point x="-78.5" y="-0.0" />
-            </edge>
-            <edge source="com.jnshu.student:studentweb:1.0-SNAPSHOT" target="org.springframework:spring-beans:jar:5.1.6.RELEASE">
-              <point x="41.5" y="-5.25" />
-              <point x="103.0" y="298.5" />
-              <point x="-46.5" y="3.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="316.0" y="675.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -1383,104 +1060,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/a.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/deleteStudent.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/insertStudent.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/selectStudent.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/updateStudent.jsp" />
+    <entry file="jar://D:/mavenm2/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#insertStudent#0;class#StudentServiceImpl#0" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#selectStudent#0;n#MainController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#updateStudent#0;class#StudentController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/删除成功.jsp" />
+    <entry file="uml://MAVEN/com.jnshu.student:studentweb:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/StudentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
-          <folding>
-            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
-            <element signature="n#delete#0;n#mapper#0;n#!!top" />
-            <element signature="n#insert#0;n#mapper#0;n#!!top" />
-            <element signature="n#update#0;n#mapper#0;n#!!top" />
-            <element signature="n#select#0;n#mapper#0;n#!!top" />
-            <element signature="n#select#1;n#mapper#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="78" />
-          <folding>
-            <element signature="n#bean#0;n#beans#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-          <folding>
-            <element signature="e#1137#1295#0" />
-            <element signature="e#1383#1543#0" />
-            <element signature="e#1628#1785#0" />
-            <element signature="e#1872#2031#0" />
-            <element signature="e#2116#2273#0" />
-            <element signature="e#2357#2513#0" />
-            <element signature="e#2597#2753#0" />
-            <element signature="e#2838#3021#0" />
-            <element signature="e#3104#3259#0" />
-            <element signature="e#3355#3523#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <ID>MAVEN</ID>
+          <OriginalElement>com.jnshu.student:studentweb:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jnshu.student:studentweb:1.0-SNAPSHOT</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.46</node>
+            <node x="" y="">org.springframework:spring-beans:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:5.1.6.RELEASE/org.springframework:spring-jcl:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aop:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-tx:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">org.mybatis:mybatis-spring:jar:2.0.1</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.16</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-core:jar:2.8.2</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-api:jar:2.8.2</node>
+            <node x="" y="">org.junit.jupiter:junit-jupiter-api:jar:5.4.0</node>
+            <node x="" y="">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.apiguardian:apiguardian-api:jar:1.0.0</node>
+            <node x="" y="">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.opentest4j:opentest4j:jar:1.1.1</node>
+            <node x="" y="">org.junit.jupiter:junit-jupiter-api:jar:5.4.0/org.junit.platform:junit-platform-commons:jar:1.4.0</node>
+            <node x="" y="">javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.3</node>
+            <node x="" y="">javax.servlet.jsp.jstl:jstl-api:jar:1.2</node>
+            <node x="" y="">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1</node>
+            <node x="" y="">org.glassfish.web:jstl-impl:jar:1.2</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:4.0.1</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-core:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.9/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.44680851063829785" x="704.0" y="610.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -1491,61 +1129,260 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/student.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/delete.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#p#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="1" column="79" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/deleteStudent.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/update.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="-138">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/insertStudent.jsp">
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/selectStudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-662">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pagess/updateStudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc;n#jsp:root#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="1584">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jnshu/service/StudentServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenm2/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/validation/Errors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenm2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/constraints/NotEmpty.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/mapper/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenm2/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/support/AbstractResourceBasedMessageSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/StudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="73" column="15" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+          <folding>
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" />
+            <element signature="n#insert#0;n#mapper#0;n#!!top" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#insertStudent#0;class#StudentServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenm2/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/support/DefaultMessageSourceResolvable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding>
+            <element signature="e#1956#1957#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/message_zh_CN.properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" lean-forward="true" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/json.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="78" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="78" />
+          <folding>
+            <element signature="n#bean#0;n#beans#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#selectStudent#0;n#MainController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/json-taglib.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/select.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="97" column="47" lean-forward="true" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/message.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentWebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="156" column="51" selection-start-line="156" selection-start-column="51" selection-end-line="156" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="148" column="55" lean-forward="true" selection-start-line="148" selection-start-column="55" selection-end-line="148" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4905#4906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/insert.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/student.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1686">
+          <caret line="187" column="24" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+          <folding>
+            <element signature="e#885#1030#0" />
+            <element signature="e#1137#1295#0" />
+            <element signature="e#1383#1543#0" />
+            <element signature="e#1628#1785#0" />
+            <element signature="e#1872#2031#0" />
+            <element signature="e#2116#2273#0" />
+            <element signature="e#2357#2513#0" />
+            <element signature="e#2597#2753#0" />
+            <element signature="e#2838#3021#0" />
+            <element signature="e#3104#3259#0" />
+            <element signature="e#3355#3523#0" />
+            <element signature="e#3618#3755#0" />
+            <element signature="e#3835#3979#0" />
+            <element signature="e#4067#4203#0" />
+            <element signature="e#4314#4467#0" />
+            <element signature="e#4555#4707#0" />
+            <element signature="e#4818#4997#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -1571,6 +1408,7 @@
             <option name="proportions">
               <list>
                 <option value="0.4402985" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1593,7 +1431,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4402985" />
               </list>
             </option>
           </splitter-proportions>
@@ -1605,7 +1443,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4402985" />
               </list>
             </option>
           </splitter-proportions>
@@ -1617,7 +1455,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4402985" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

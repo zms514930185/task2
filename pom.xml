@@ -130,15 +130,7 @@
       <version>5.4.0</version>
       <scope>test</scope>
     </dependency>
-    <!--旧的junit测试包-->
-    <!--dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.12</version>
-      <scope>test</scope>
-    </dependency>-->
-    <!--新的JSP包-->
-    <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->
+
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
       <artifactId>javax.servlet.jsp-api</artifactId>
@@ -146,11 +138,11 @@
       <scope>provided</scope>
     </dependency>
     <!-- jstl-api -->
-    <dependency>
+    <!--<dependency>
       <groupId>javax.servlet.jsp.jstl</groupId>
       <artifactId>jstl-api</artifactId>
       <version>1.2</version>
-    </dependency>
+    </dependency>-->
     <!-- jstl-impl -->
     <dependency>
       <groupId>org.glassfish.web</groupId>
@@ -165,19 +157,24 @@
       <version>4.0.1</version>
       <scope>provided</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.json/json -->
     <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20180813</version>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>2.9.9</version>
     </dependency>
-    <!--jetty包-->
-    <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-maven-plugin -->
-    <!--<dependency>
-      <groupId>org.eclipse.jetty</groupId>
-      <artifactId>jetty-maven-plugin</artifactId>
-      <version>9.3.26.v20190403</version>
-    </dependency>-->
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.9.9</version>
+    </dependency>
+    <!--validator-->
+    <!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
+    <dependency>
+      <groupId>org.hibernate.validator</groupId>
+      <artifactId>hibernate-validator</artifactId>
+      <version>6.1.0.Alpha4</version>
+    </dependency>
+
   </dependencies>
 
   <build>

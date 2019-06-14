@@ -1,11 +1,18 @@
 package com.jnshu.model;
 
+
+import javax.validation.constraints.NotNull;
+
+
 public class Student {
 
     private Long id;
 
+    /*写校验错误后提示信息，统一由国际化配置文件管理*/
+    @NotNull(message = "{student.studentId.NotNull}")
     private Long studentId;
 
+    @NotNull(message = "{student.name.NotNull}")
     private String name;
 
     private Long qq;

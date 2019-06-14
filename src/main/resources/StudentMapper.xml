@@ -56,11 +56,25 @@
     create_at, update_at
     from student
   </select>
-    <select id="selectCountId" resultType="java.lang.Long">
-    select count(id) from student
-  </select>
+    <select id="selectCount" resultType="java.lang.Long">
+        select count(id) from student
+        <trim prefix="WHERE" prefixOverrides="AND|OR ">
+            <if test="id != null and id !=''">ID=#{id}</if>
+            <if test="studentId != null and studentId !=''">and student_id=#{studentId}</if>
+            <if test="name != null and name !=''">and name LIKE CONCAT('%',#{name},'%')</if>
+            <if test="qq != null and qq !=''">and qq LIKE CONCAT('%',#{qq},'%')</if>
+            <if test="career !=null and career !=''">and career LIKE CONCAT('%',#{career},'%')</if>
+            <if test="data !=null and data !=''">and data = #{data}</if>
+            <if test="school !=null and school !=''">and school LIKE CONCAT('%',#{school},'%')</if>
+            <if test="link !=null and link !=''">and link = #{link}</if>
+            <if test="declaration !=null and declaration !=''">and declaration = #{declaration}</if>
+            <if test="brother !=null and brother !=''">and brother LIKE CONCAT('%',#{brother},'%')</if>
+            <if test="createAt !=null and createAt !=''">and create_at = #{createAt}</if>
+            <if test="updateAt !=null and updateAt !=''">and update_at = #{updateAt}</if>
+        </trim>
+    </select>
     <!--查询记录，名字，职业，QQ，学校，师兄是模糊查询-->
-    <select id="selectStudent"  parameterType="java.util.Map" resultType="Student">
+    <select id="selectStudent" parameterType="java.util.Map" resultType="Student">
         select ID as id,student_id as studentId,name,qq,career,data,school,link,declaration,brother,create_at as
         createAt,update_at as updateAt from student
         <trim prefix="WHERE" prefixOverrides="AND|OR ">
@@ -70,13 +84,13 @@
             <if test="qq != null and qq !=''">and qq LIKE CONCAT('%',#{qq},'%')</if>
             <if test="career !=null and career !=''">and career LIKE CONCAT('%',#{career},'%')</if>
             <if test="data !=null and data !=''">and data = #{data}</if>
-            <if test="school !=null and school !=''">and LIKE CONCAT('%',#{school},'%')</if>
+            <if test="school !=null and school !=''">and school LIKE CONCAT('%',#{school},'%')</if>
             <if test="link !=null and link !=''">and link = #{link}</if>
             <if test="declaration !=null and declaration !=''">and declaration = #{declaration}</if>
             <if test="brother !=null and brother !=''">and brother LIKE CONCAT('%',#{brother},'%')</if>
             <if test="createAt !=null and createAt !=''">and create_at = #{createAt}</if>
             <if test="updateAt !=null and updateAt !=''">and update_at = #{updateAt}</if>
         </trim>
-        limit #{page},#{size}
+        limit #{Start},#{size}
     </select>
 </mapper>

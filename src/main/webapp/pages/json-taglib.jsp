@@ -2,7 +2,7 @@
 <json:object>
     <%--@elvariable id="studentList" type="java.util.List"--%>
     <json:array name="Student" var="student" items="${selectStudent}">
-        <json:object>
+        <%--<json:object>--%>
             <json:property name="id" value="${student.id}"/>
             <json:property name="studentId" value="${student.studentId}"/>
             <json:property name="name" value="${student.name}"/>
@@ -15,6 +15,6 @@
             <json:property name="brother" value="${student.brother}"/>
             <json:property name="createAt" value="${student.createAt}"/>
             <json:property name="updateAt" value="${student.updateAt}"/>
-        </json:object>
+        <%--</json:object>--%>
     </json:array>
 </json:object>

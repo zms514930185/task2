@@ -48,13 +48,13 @@ public class StudentServiceImpl implements StudentService {
     }
 
     @Override
-    public long selectCountId() {
-        return studentMapper.selectCountId();
+    public long selectCount(Student student) {
+        return studentMapper.selectCount(student);
     }
 
     @Override
-    public List<Student> selectStudent(Student student,int page,int size) {
-        logger.info("查询操作：传输至后端处理的值" + student);
+    public List<Student> selectStudent(Student student,long page,long size) {
+        logger.info("查询操作：传输至后端处理的值{}，页数{}，单页记录数{}" , student,page,size);
         Map<String, Object> map = new HashMap();
         map.put("id",student.getId());
         map.put("studentId",student.getStudentId());
@@ -68,7 +68,7 @@ public class StudentServiceImpl implements StudentService {
         map.put("brother",student.getBrother());
         map.put("createAt",student.getCreateAt());
         map.put("updateAt",student.getUpdateAt());
-        map.put("page", (page - 1) * size);// 设置分页查询的起始值
+        map.put("Start", (page - 1) * size);// 设置分页查询的起始值Start
         map.put("size", size);// 设置每一页查询条数
         logger.info("查询操作：service层增加分页数据后的值"+map);
         return studentMapper .selectStudent(map);
